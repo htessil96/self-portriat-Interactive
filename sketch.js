@@ -47,7 +47,3 @@ function draw() {
 function mousePressed () {
  hair+= 10;    
 }
-
-function KeyPressed (){
-    hair === 200;
-}
